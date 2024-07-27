@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# MERN_Stacked_SIP
-=======
+
 # **MERN Stack Job Portal**
 
 ## **Overview**
